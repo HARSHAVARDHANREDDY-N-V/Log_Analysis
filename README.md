@@ -1,6 +1,6 @@
-# DevOps Internship Assignment: Log Analysis and Monitoring Script
+# Log Analysis and Monitoring Script
 
-This assignment involves creating a script to automate the analysis and monitoring of log files. The script will be implemented using bash shell scripting or Python scripting and will include basic log analysis and monitoring functionalities.
+This involves creating a script to automate the analysis and monitoring of log files. The script will be implemented using bash shell scripting or Python scripting and will include basic log analysis and monitoring functionalities.
 
 ## Objective:
 
