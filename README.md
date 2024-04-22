@@ -45,6 +45,33 @@ The main objective of this assignment is to develop a script that automates the 
 ## Usage Instructions:
 
 1. **Clone the Repository:**
-   ```bash
-   git clone 
+  
+   git clone https://github.com/HARSHAVARDHANREDDY-N-V/Log_Analysis.git
    cd log-analysis-monitoring-script
+
+
+2. **Execute the Script:**
+   - For bash shell script:
+   
+     ./log-monitor.sh /path/to/log/file.log
+   
+   - For Python script:
+    
+     python log-monitor.py /path/to/log/file.log
+     
+
+3. **Follow on-screen Instructions:**
+   - The script will start monitoring the specified log file and display new entries in real-time.
+   - Additionally, it will perform basic log analysis and display summary reports.
+   - Press `Ctrl+C` to interrupt monitoring and exit the script.
+
+4. **Customization:**
+   - Customize the script as needed, such as modifying keywords for log analysis or adjusting log file size limits for archiving.
+   - Explore additional features and enhancements to extend the script's functionality.
+
+## Additional Notes:
+
+- Feel free to experiment with the script, explore different log files, and customize it to suit your specific requirements.
+- Any feedback or contributions to improve the script are highly appreciated.
+
+
